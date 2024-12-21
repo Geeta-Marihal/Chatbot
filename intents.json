@@ -1,0 +1,202 @@
+[
+{
+"tag": "greeting",
+"patterns": ["Hi", "Hello", "Hey", "How are you", "What's up"],
+"responses": ["Hi there", "Hello", "Hey", "I'm fine, thank you", "Nothing much"]
+},
+{
+"tag": "goodbye",
+"patterns": ["Bye", "See you later", "Goodbye", "Take care"],
+"responses": ["Goodbye", "See you later", "Take care"]
+},
+{
+"tag": "thanks",
+"patterns": ["Thank you", "Thanks", "Thanks a lot", "I appreciate it"],
+"responses": ["You're welcome", "No problem", "Glad I could help"]
+},
+{
+"tag": "about",
+"patterns": ["Tell me about you", "What is your purpose?", "What do you do?"],
+"responses": ["I'm a universe chatbot. You can ask me questions regarding universe"]
+},
+{
+"tag": "help",
+"patterns": ["Help", "I need help", "Can you help me", "What should I do"],
+"responses": ["Sure, what do you need help with?", "I'm here to help. What's the problem?", "How can I assist you?"]
+},
+{
+"tag": "age",
+"patterns": ["How old are you", "What's your age"],
+"responses": ["I don't have an age. I'm a chatbot.", "I was just born in the digital world.", "Age is just a number for me."]
+},
+{
+"tag":"universe",
+"patterns":["What is universe","Define universe","Tell me about universe"],
+"responses":["The universe is all of space and time and their contents.","The totality of existence","everything that exists, everything that has existed, and everything that will exist"]
+},
+{
+"tag":"BigBang",
+"patterns":["Explain big bang theory","What is meant by big bang?"],
+"responses":["The Big Bang is a physical theory that describes how the universe expanded from an initial state of high density and temperature.","The Big Bang Theory is the leading explanation for how the universe began."]
+},
+{
+"tag":"solarsystem",
+"patterns":["What is solar system?","What do you mean by solar system?","What consists of solar system?"],
+"responses":["The Solar System is the gravitationally bound system of the Sun and the objects that orbit it.","A solar system is a group of planets and other objects that revolve around a star.","The solar system has one star, eight planets, five dwarf planets, at least 290 moons, more than 1.3 million asteroids, and about 3900 comets."]
+},
+{
+"tag":"sun",
+"patterns":["What is sun?","The biggest star of the solar system","What is in centre of our solar system?"],
+"responses":["Sun is a star","Sun is in the centre of our solar system.","The Sun consists mainly of the elements hydrogen and helium."]
+},
+{
+"tag":"earth",
+"patterns":["What is earth?","Where do we live?","The living planet"],
+"responses":["Earth is the third planet from the Sun and the only astronomical object known to harbor life.","Earth is rounded into an ellipsoid with a circumference of about 40,000 km.","Earth is a planet in our solar system that is home to life"]
+},
+{
+"tag":"mercury",
+"patterns":["Which is the first planet in solar system?","Smallest planet in our solar system","What is mercury?"],
+"responses":["Mercury is the first planet from the Sun and the smallest in the Solar System.","Mercury is the closest planet to the sun","Mercury is a rocky planet, also known as a terrestrial planet."]
+},
+{
+"tag":"venus",
+"patterns":["Second planet of the solar system","What is venus?","The evening star in the sky","The morning star in the sky","Which planet is called as Earth's twin?"],
+"responses":["Venus is the second planet from the Sun.","Venus is known as the morning star or evening star","Venus the hottest planet in our solar system, and is sometimes called Earth's twin.","Venus is the third brightest object in the sky after the Sun and Moon."]
+},
+{
+"tag":"mars",
+"patterns":["What is mars?","Which planet is called as red planet?","Fourth planet of our solar system"],
+"responses":["Mars is the fourth planet from the Sun.","Mars, is one of Earth's two closest planetary neighbors","Mars is a terrestrial planet with a surface that consists of minerals containing silicon and oxygen, metals, and other elements that typically make up rock."]
+},
+{
+"tag":"jupiter",
+"patterns":["What is jupiter?","Which is the fifth planet?","The largest planet in our solar system"],
+"responses":["Jupiter is the fifth planet from the Sun and the largest in the Solar System.","Jupiter is a gas giant and so lacks an Earth-like surface.",""]
+},
+{
+"tag":"saturn",
+"patterns":["What is saturn","Which is the sixth planet?"],
+"responses":["Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter.","Saturn is a massive ball made mostly of hydrogen and helium. It's surrounded by a beautiful ring system."]
+},
+{
+"tag":"neptune",
+"patterns":["What is neptune?","Which is the eighth planet?"],
+"responses":["Neptune is the eighth and farthest known planet from the Sun.","Neptune is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet."]
+},
+{
+"tag":"uranus",
+"patterns":["What is uranus?","Which is the seventh planet?"],
+"responses":["Uranus is the seventh planet from the sun","Uranus is the third largest planet in our solar system","Uranus is very cold and windy and is surrounded by faint rings."]
+},
+{
+"tag":"milkyway",
+"patterns":["What is Milky Way?","What is the name of our galaxy?","Where does our solar sytem lie in?"],
+"responses":["The Milkyway galaxy is the galaxy that includes the solar system.","The Milky Way is a huge collection of star, dust and gas."," Milky Way galaxy is a large spiral system of about several hundred billion stars, one of which is the sun"]
+},
+{
+"tag":"asteroid",
+"patterns":["What is asteroid?"],
+"responses":["An asteroid is a minor planet-an object that is neither a true planet nor an identified comet- that orbits within the inner Solar System"]
+},
+{
+"tag":"age",
+"patterns":["How old is the universe?","What is the age of the universe?","When did the universe begin?"],
+"responses":["The universe is about 13.8 billion years old. This is determined using measurements of the cosmic microwave background radiation and the expansion rate of the universe, which help scientists estimate its age since the Big Bang."]
+},
+{
+"tag":"supernova",
+"patterns":["What is supernova?","How does supernova happen?","Tell me about supernova"],
+"responses":["A supernova is a powerful explosion of a star, typically occurring at the end of a star's life cycle. When a star runs out of fuel, it can no longer support its own gravity, causing it to collapse. This collapse triggers a massive explosion, which briefly outshines an entire galaxy. Supernova are important for dispersing elements like carbon and oxygen into space."]
+},
+{
+"tag":"galaxies",
+"patterns":["What are the types of galaxies?","Tell me about different kinds of galaxies.","How many types of galaxies are there?"
+],
+"responses":["There are three main types of galaxies: spiral galaxies (like our Milky Way), elliptical galaxies (round or oval-shaped), and irregular galaxies (which don’t have a defined shape). Each type has its own characteristics and structure."
+]
+},
+{
+"tag":"nebula",
+"patterns":["What is a nebula?","Can you tell me about nebulae?","What does a nebula look like?"],
+"responses":["A nebula is a giant cloud of gas and dust in space, often acting as a 'stellar nursery' where new stars are born. Some nebulae, like the Orion Nebula, are visible to the naked eye, while others can only be seen with powerful telescopes."
+]
+},
+{
+"tag":"telescope",
+"patterns":["How do telescopes help us see stars?","What is the purpose of a telescope?","How do telescopes work?"],
+"responses":["Telescopes collect and magnify light from distant objects, allowing us to see faraway stars, planets, and galaxies. They use lenses or mirrors to focus light. The larger the telescope, the more light it can collect, making it easier to observe faint objects in space."]
+},
+{
+"tag":"comet",
+"patterns":["What is a comet?","Tell me about comets.","What makes comets different from asteroids?"],
+"responses":["A comet is a small icy body that orbits the Sun. When it gets close to the Sun, the heat causes it to release gas and dust, forming a glowing tail. Unlike asteroids, which are made mostly of rock and metal, comets are made primarily of ice, dust, and frozen gases."]
+},
+{
+"tag":"hubble_space_telescope",
+"patterns":["Tell me about the Hubble Space Telescope.","What does the Hubble Telescope do?","Why is the Hubble Telescope important?"],
+"responses":["The Hubble Space Telescope is a space-based observatory launched in 1990. It has provided some of the most detailed images of distant galaxies, nebulae, and stars. Its position above Earth's atmosphere allows it to capture clearer images without interference from air and weather conditions."]
+},
+{
+"tag":"nebula_colors",
+"patterns":["What colors are found in a nebula?","Can you tell me the colors of nebulae?","Why do nebulae have different colors?"],
+"responses":["Nebulae come in a variety of colors depending on the gases they contain and the kind of light they emit. For example, hydrogen-rich nebulae often appear red, while oxygen-rich nebulae can appear green or blue. These colors are visible when the gases in the nebula glow from being excited by nearby stars."]
+},
+{
+"tag":"shooting_star",
+"patterns":["What is a shooting star?","What causes a shooting star?","Are shooting stars real?"],
+"responses":["A shooting star is actually a meteor—small particles of rock or metal that burn up as they enter Earth's atmosphere, creating a bright streak of light. They are not stars, but rather remnants of comets or asteroids."
+]
+},
+{
+"tag":"stars",
+"patterns":["What are stars made of?","How are stars formed?","Tell me about stars."],
+"responses":["Stars are massive balls of hot gases, primarily hydrogen and helium, held together by gravity and powered by nuclear fusion.","They form from collapsing clouds of gas and dust in space, called nebulae.","Want to learn about different types of stars like red giants or neutron stars?"]
+},
+{
+"tag":"planets",
+"patterns":["How many planets are in our solar system?","What is the largest planet?","Tell me about Earth."],
+"responses":["Our solar system has eight planets, ranging from Mercury to Neptune.","The largest planet is Jupiter, which is mostly made of gas.","Earth is unique for its liquid water and abundant life forms."]
+},
+{
+"tag":"alien_life",
+"patterns":["Do aliens exist?","What is extraterrestrial life?","Are there other planets with life?"],
+"responses":["The existence of extraterrestrial life is still unproven, but scientists are actively exploring possibilities.","Earth-like planets in habitable zones are prime candidates for finding life."]
+},
+{
+"tag":"universe_end",
+"patterns":["How will the universe end?","Will the universe collapse?","Explain heat death of the universe."],
+"responses":["The universe may end in several ways, like the Big Crunch, Big Rip, or heat death.","Heat death occurs if the universe reaches maximum entropy, with no usable energy left.","Would you like to hear more about these theories?"]
+},
+{
+"tag":"time_travel",
+"patterns":["Is time travel possible?","How does time travel work?","Can we go back in time?"],
+"responses":["Time travel is a concept explored in physics, with theories like wormholes and relativistic effects under Einstein's relativity.","Traveling forward in time is theoretically possible by moving at speeds close to the speed of light.","Would you like to explore the science or science fiction aspects of time travel?"]
+},
+{
+"tag":"multiverse",
+"patterns":["What is the multiverse?","Are there parallel universes?","Explain the multiverse theory."],
+"responses":["The multiverse theory suggests that our universe might be one of many, each with its own laws of physics.","It’s a speculative idea rooted in cosmology and quantum mechanics."
+]
+},
+{
+"tag": "blackholes",
+"patterns":["What is a black hole?","Tell me about black holes.","How do black holes form?","Why can't anything escape a black hole?","What happens in a black hole?"],
+"response":["A black hole is a region in space where gravity is so intense that nothing, not even light, can escape. They are formed when massive stars collapse under their own gravity. Black holes vary in size, from stellar to supermassive. Want to know more about their formation or properties?"]
+},
+{
+"tag": "universe_expansion",
+"patterns":["Is the universe expanding?","Why is the universe expanding?","Tell me about the expanding universe.","What does it mean that the universe is expanding?"],
+"response":["Yes, the universe is expanding! In 1929, Edwin Hubble discovered that galaxies are moving away from us, suggesting that space itself is stretching. The expansion is speeding up due to dark energy. Would you like to learn more about how we measure this expansion?"]
+},
+{
+"tag": "darkmatter",
+"patterns":["What is dark matter?","Tell me about dark matter.","What role does dark matter play in the universe?","Why can't we see dark matter?","How do scientists know dark matter exists?"],
+"response":["Dark matter is a type of matter that doesn't emit light or energy, so it's invisible to telescopes. It makes up about 27% of the universe, and its presence is inferred by its gravitational effects on visible matter. Would you like to know how scientists detect dark matter?"]
+},
+{
+"tag": "extraterrestrial_life",
+"patterns":["Is there life on other planets?","Do you think aliens exist?","What are the chances of life elsewhere?","Tell me about the search for extraterrestrial life.","Have we found life on other planets?"],
+"response":["Scientists believe that there might be life elsewhere in the universe, especially on exoplanets in the 'habitable zone' where conditions might support liquid water. However, no direct evidence of extraterrestrial life has been found yet. Would you like to know more about the search for life?"]
+}
+]
